@@ -1,0 +1,5 @@
+-#sobre mim
+-  olá meu nome é @natachafurlan
+-meu email de contato é natacha.furlan@escola.pr.gov.br
+-eu estou enteressada em aprender a programar novas linguagens.
+-eu estou aprendendo a programar recentemente a linguagem de javaScript e scratch
